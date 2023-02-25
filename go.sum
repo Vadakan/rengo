@@ -1,2 +1,4 @@
 github.com/go-chi/chi v4.1.1 h1:KzBh7DhKhC1dyE7MJlLQxOoLL75u0it/4TzOmM0+TxA=
 github.com/go-chi/chi v4.1.1/go.mod h1:Ls3t3JyBebwzEODHrzcOK+q3q00Z/J9CyZBx8RnFQoo=
+github.com/go-chi/chi v4.1.2+incompatible h1:fGFk2Gmi/YKXk0OmGfBh0WgmN3XB8lVnEyNz34tQRec=
+github.com/go-chi/chi v4.1.2+incompatible/go.mod h1:eB3wogJHnLi3x/kFX2A+IbTBlXxmMeXJVKy9tTv1XzQ=
